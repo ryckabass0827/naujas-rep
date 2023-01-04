@@ -1,3 +1,8 @@
+body {
+    margin: 0;
+    background-color: blanchedalmond;
+}
+
 section#GitKomandos>ol {
     max-width: 80%;
     margin: 30px auto 0;
@@ -5,4 +10,10 @@ section#GitKomandos>ol {
     border-radius: 10px;
     color: wheat;
     font-size: 1.3rem;
+}
+
+section#GitKomandos i {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    line-height: 1.5;
+
 }
