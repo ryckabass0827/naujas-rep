@@ -200,3 +200,48 @@ span {
         width: 25rem;
     }
 }
+
+.card {
+    display: flex;
+    flex-direction: column;
+    width: 300px;
+    height: 200px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    overflow: hidden;
+}
+
+.card img {
+    width: 100%;
+    height: 150px;
+    object-fit: cover;
+}
+
+.card .details {
+    padding: 10px;
+}
+
+.card .details .name {
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+
+.card .details .time {
+    font-size: 14px;
+    color: #999;
+}
+
+.card .details .creator-icon {
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    margin-right: 10px;
+}
+
+.card .details .views {
+    font-size: 14px;
+    color: #999;
+    float: right;
+}
