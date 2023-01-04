@@ -1,0 +1,32 @@
+{
+    "cards": [
+        {
+            "id": "card-1",
+            "imageUrl": "https://yt3.ggpht.com/bpzY-S4DYlbTeOpY5hIA7qz_hcbMkgvLAugtwKBGTTImNnWAGudX0y53bo_fJZ0auypxrWkUiw=s88-c-k-c0x00ffffff-no-rj",
+            "name": "Card 1",
+            "time": "12:34",
+            "creatorIcon": "https://example.com/creator-icon-1.png",
+            "views": 12345
+        },
+        {
+            "id": "card-2",
+            "imageUrl": "https://yt3.ggpht.com/bpzY-S4DYlbTeOpY5hIA7qz_hcbMkgvLAugtwKBGTTImNnWAGudX0y53bo_fJZ0auypxrWkUiw=s88-c-k-c0x00ffffff-no-rj",
+            "name": "Card 2",
+            "time": "23:45",
+            "creatorIcon": "https://example.com/creator-icon-2.png",
+            "views": 67890
+        },
+        {
+            "id": "card-3",
+            "imageUrl": "https://yt3.ggpht.com/bpzY-S4DYlbTeOpY5hIA7qz_hcbMkgvLAugtwKBGTTImNnWAGudX0y53bo_fJZ0auypxrWkUiw=s88-c-k-c0x00ffffff-no-rj",
+            "name": "Card 2",
+            "time": "23:45",
+            "creatorIcon": "https://example.com/creator-icon-2.png",
+            "views": 54800
+        }
+    ],
+    "subscriptions": {
+        "card-1": 123,
+        "card-2": 456
+    }
+}
