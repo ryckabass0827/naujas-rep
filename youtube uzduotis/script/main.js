@@ -12,6 +12,6 @@ fetch('./data/data.json')
     .then(response => response.json())
     .then(data => {
         console.log(data);
-        displayCard(data.card[0]);
+        displayCard(data.cards[0]);
     });
 
